@@ -14,7 +14,7 @@ sudo make install
 Clone this repository and build it
 ```
 git clone https://github.com/SD-320808/behaviortree1.git
-cd catlin_ws
+cd catkin_ws
 source devel/setup.bash
 catkin_make
 ```
