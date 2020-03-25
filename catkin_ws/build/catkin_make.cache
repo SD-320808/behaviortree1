@@ -1,0 +1,2 @@
+hello_BT
+-DCATKIN_DEVEL_PREFIX=/home/diyans/ROS/BT/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/diyans/ROS/BT/catkin_ws/install -G Unix Makefiles

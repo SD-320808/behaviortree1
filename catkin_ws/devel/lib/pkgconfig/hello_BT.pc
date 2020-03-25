@@ -1,0 +1,8 @@
+prefix=/home/diyans/ROS/BT/catkin_ws/devel
+
+Name: hello_BT
+Description: Description of hello_BT
+Version: 0.0.0
+Cflags: -I/home/diyans/ROS/BT/catkin_ws/src/hello_BT/include
+Libs: -L/home/diyans/ROS/BT/catkin_ws/devel/lib -lhello_BT -lbehaviortree_cpp_v3
+Requires: actionlib_msgs roscpp rospy std_msgs
